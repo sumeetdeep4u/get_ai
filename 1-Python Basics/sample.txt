@@ -1,0 +1,1 @@
+The final example demonstrates how to validate an email address using regular expressions. The function checks if the email matches a specific pattern.Append operation taking place.
